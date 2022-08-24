@@ -22,7 +22,7 @@ If there is no directory `log/` then create one with `mkdir log`.
 ### Setup
 Now that we confirmed we have a directory where the logs get stored we can edit the crontab to our liking. For this to happen we type into the command line the following command:
 
-    `rontab -e`
+    `crontab -e`
 
 If you do this for the first time, it will ask you what editor to select. Select the on of your liking!
 
