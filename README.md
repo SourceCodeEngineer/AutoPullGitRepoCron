@@ -2,7 +2,7 @@
 
 ## Script
 
-Download the given [script](gitpull.sh) in this repository to any location of your choosing and make it via "chmod +x gitpull.sh" executable!
+Download the given [script](gitpull.sh) in this repository to any location of your choosing and make it via `chmod +x gitpull.sh` executable!
 
 ## Crontab
 
