@@ -26,6 +26,7 @@ If you do this for the first time, it will ask you what editor to select. Select
 
 Now that we are editing the crontab file, we can now copy paste the following command:
     `* * * * * cd /PATH_TO_EXECUTABLE_SCRIPT && ./gitpull.sh > /root/log/gitpull-script.log  2>&1 &`
+
 You can edit this command to your liking, it is currently set to automatically pull `EVERY MINUTE` which is because it is a template.
 If you want to change the time of it then you can just overwrite the stars and if you are not sure you did it write you can check it [here](https://www.crondrive.com/test-cron-expression?expression=0+2+%2A+%2A+%2A).
 
