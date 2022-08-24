@@ -8,8 +8,8 @@ export TERM=${TERM:-dumb}
 #----------------------------------------
 # Please set the following variable section
 # Please set up working directories, use','split
-# eg:path="/root/test/path1,/root/test/path2"
-path="/home/sourcecodeengineer/ComputerScience/Studium_Informatik/"
+# eg:path="/root/test/path_to_first_repo,/root/test/path_to_second_repo,..."
+path=""
 #----------------------------------------
 
 # Do not edit the following section
